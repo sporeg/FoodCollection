@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">吃什么</string>
+    <string name="name">名称 :</string>
+    <string name="location">位置 :</string>
+    <string name="price">价格 :</string>
+    <string name="assessment">评价:</string>
+    <string name="recommendation">推荐搭配:</string>
+    <string name="businesshours">营业时间:</string>
+    <string name="remarks">备注:</string>
+    <string name="menu_save"> 保存信息 </string>
+    <string name="food_edit">编辑美食</string>
+    <string name="food_create">创建美食</string>
+    <string name="error_msg">美食信息错误</string>
+    <string name="menu_revert">回退</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_discard">放弃</string>
+    <string name="menu_add">增加美食</string>
+    <string name="menu_edit">编辑美食</string>
+    <string name="menu_cancel">取消</string>
+    <string name="exit">退出</string>
+    <string name="random_result">美食搜索完成</string>
+    <string name="search">查找</string>
+    <string name="start">开始</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_search">搜索美食</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="anim_slide">Slide Up</string>
+    <string name="settings_description">美食的名字^_^</string>
+    <string name="main_food_label">美食汇</string>
+    <string name="main_randomchoise_label">摇美食</string>
+    <string name="main_settings_label">设置</string>
+    <string name="search_count">个搜索结果</string>
+    <string name="ModePreference">设置模式</string>
+    <string name="setting_mode">设置左右滑动模式，重启后有效</string>
+
+</resources>

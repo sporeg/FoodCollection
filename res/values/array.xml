@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sort_choise">
+        <item>默认排序</item>
+        <item>按价格从低到高排序</item>
+        <item>按价格从高到低排序</item>
+        <item>按评价排序</item>
+    </string-array>
+    <string-array name="mode_list_preference">
+        <item>左侧</item>
+        <item>右侧</item>
+    </string-array>
+    <string-array name="modevalue_list_preference">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

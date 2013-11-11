@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <item type="color" name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</item>
+    <item type="color" name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</item>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <item type="color" name="abs__bright_foreground_inverse_holo_dark">@color/abs__bright_foreground_holo_light</item>
+    <item type="color" name="abs__bright_foreground_inverse_holo_light">@color/abs__bright_foreground_holo_dark</item>
+    <color name="abs__holo_blue_light">#ff33b5e5</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_50">#7f000000</color>
+    <color name="black_70">#b2000000</color>
+    <color name="black_80">#cc000000</color>
+    <color name="classA">#ff1f1f1f</color>
+    <color name="classB">#ff3b3b3b</color>
+    <color name="classC">#ff4b4b4b</color>
+    <color name="classD">#ff696969</color>
+    <color name="classE">#ff999999</color>
+    <color name="classF">#ffe8e8e8</color>
+    <color name="classG">#ff33b5e7</color>
+    <color name="classH">#ff105067</color>
+    <item type="color" name="ToastBlack">@color/black_70</item>
+    <color name="ToastGreen">#b2276b23</color>
+    <color name="ToastRed">#b28d1616</color>
+    <color name="ToastOrange">#b2c47d00</color>
+    <color name="sidebar_item_text_shadow_color">#bf000000</color>
+    <color name="black_30">#4c000000</color>
+    <color name="sd_bg">#ffadadad</color>
+    <color name="from_fuubo">#ff116e8e</color>
+    <color name="classI">#ff65879b</color>
+    <color name="androidColorA">#ff33b5e5</color>
+    <color name="androidColorB">#ffaa66cc</color>
+    <color name="androidColorC">#ff99cc00</color>
+    <color name="androidColorD">#ffffbb33</color>
+    <color name="androidColorE">#ffff4444</color>
+    <color name="userinfo_virified">#ffffa200</color>
+    <color name="userinfo_virified_blue">#ff3198f8</color>
+</resources>
